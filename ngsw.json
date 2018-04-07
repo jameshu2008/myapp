@@ -10,7 +10,7 @@
         "https://jameshu2008.github.io/myapp/favicon.ico",
         "https://jameshu2008.github.io/myapp/index.html",
         "https://jameshu2008.github.io/myapp/inline.318b50c57b4eba3d437b.bundle.js",
-        "https://jameshu2008.github.io/myapp/main.61985d14ee988da65d5c.bundle.js",
+        "https://jameshu2008.github.io/myapp/main.33f3ae7d196d8ba8f57d.bundle.js",
         "https://jameshu2008.github.io/myapp/polyfills.77d59861e39435768676.bundle.js",
         "https://jameshu2008.github.io/myapp/styles.ac89bfdd6de82636b768.bundle.css"
       ],
@@ -36,7 +36,7 @@
   "hashTable": {
     "https://jameshu2008.github.io/myapp/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
     "https://jameshu2008.github.io/myapp/assets/icons/android-chrome-192x192.png": "a81cb2c9d695e2b499168bda7562769b5c71d0c1",
-    "https://jameshu2008.github.io/myapp/main.61985d14ee988da65d5c.bundle.js": "c24f239f57a78b16f9790d01deee646445abc61a",
+    "https://jameshu2008.github.io/myapp/main.33f3ae7d196d8ba8f57d.bundle.js": "a96284457fa52a82fbfadc1f2eea050481ccb06b",
     "https://jameshu2008.github.io/myapp/assets/icons/android-chrome-512x512.png": "7bc97c85b86831049dca30519ceedbf3ce878886",
     "https://jameshu2008.github.io/myapp/polyfills.77d59861e39435768676.bundle.js": "beb3f7129447fb464639e25447ceb200fa2ba87e",
     "https://jameshu2008.github.io/myapp/assets/icons/apple-touch-icon.png": "3706ae4c6487f8e09f2ba69ca34ae8a34f2b40af",
@@ -44,7 +44,7 @@
     "https://jameshu2008.github.io/myapp/assets/icons/favicon-16x16.png": "ba354fab1e8ef1ce24f8b0cc1548972683806612",
     "https://jameshu2008.github.io/myapp/favicon.ico": "a118627a77769a7fca94cfaac6ebfe2d4b8a7624",
     "https://jameshu2008.github.io/myapp/assets/icons/favicon-32x32.png": "5a9171ba609f06594749910180571e05c9d7aa98",
-    "https://jameshu2008.github.io/myapp/index.html": "0222d6f5f9fa11376ef9c34ca91c066a205cf774",
+    "https://jameshu2008.github.io/myapp/index.html": "4567219973616bca69035c8f02fc46eec1777c2a",
     "https://jameshu2008.github.io/myapp/assets/icons/mstile-150x150.png": "e080e7d42411c84885c328f1877f67fc466d6449",
     "https://jameshu2008.github.io/myapp/assets/icons/safari-pinned-tab.svg": "c6a59e42efe0f46fd2aab8bbe1a62ff1d0f2ae41"
   }
