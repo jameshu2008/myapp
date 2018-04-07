@@ -1,5 +1,6 @@
 {
-    "name": "A template for creating new apps.",
+    "name": "myapp",
+    "short_name": "myapp",
     "start_url": "/",
     "theme_color": "#f48c5b",
     "background_color": "#ffffff",
